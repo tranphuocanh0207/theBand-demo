@@ -337,7 +337,7 @@ html {
 }
 
 .map-img {
-    background: url('/assets/img/map.jpg') top center / cover no-repeat;
+    background: url('./assets/img/map.jpg') top center / cover no-repeat;
     padding-top: 50%;
 }
 
